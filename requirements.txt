@@ -1,0 +1,5 @@
+starlette
+uvicorn
+pymongo
+pymupdf
+pyjwt
